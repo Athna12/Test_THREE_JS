@@ -23,8 +23,10 @@ Caméra Interactive : Navigation libre (rotation, zoom, panoramique) via OrbitCo
 Comme le projet utilise des modules JavaScript, il doit être lancé via un serveur local.
 
 Cloner le projet
+```
 git clone https://github.com/Athna12/Test_THREE_JS.git
 cd Test_THREE_JS
+```
 
 Ouvrez le dossier 1_Test.
 
