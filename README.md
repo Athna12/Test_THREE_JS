@@ -12,6 +12,9 @@ Cycle Chromatique : Animation fluide de la couleur de la lumière passant du Bla
 
 Caméra Interactive : Navigation libre (rotation, zoom, panoramique) via OrbitControls.
 
+## Aperçu du projet
+![Aperçu de la forme cristalline](./assets/1_forme.png)
+
  Installation et Lancement
 Comme le projet utilise des modules JavaScript, il doit être lancé via un serveur local.
 
